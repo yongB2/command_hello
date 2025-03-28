@@ -1,2 +1,3 @@
 print("hello world")
-print("Tello your world")
+print("Tell your world")
+print("Tell her world")
